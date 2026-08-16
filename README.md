@@ -22,8 +22,8 @@ I am a passionate cybersecurity student dedicated to learning how to defend infr
 ### 🏅 Certifications & Badges
 * 🎓 *Google Cybersecurity Professional Certificate* | Issued by CompTIA | [Verify Credential](YOUR_VERIFICATION_LINK)
 * 🛡️ *Cybersecurity Analyst Job Simulation* | Issued by TATA | [Verify Credential](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_68dd6f27ca75dc910d9074b6_1759398173331_completion_certificate.pdf)
-* 🌐 *Networking Basics* | Issued by Cisco | [Verify Credential]([YOUR_VERIFICATION_LINK](https://www.credly.com/badges/56e15c56-9b5c-42e3-82b0-0dcb7d88d6ef/linked_in_profile))
-  🎓 *Introduction to Cyber Security (CS101)* | Issued by TryHackMe | [Verify Credential](https://tryhackme.com/certificate/THM-HTGZZGPLXY)
+* 🌐 *certified ethical hacker(CEH) | Issued by ECI | [verify Credential](YOUR_VERIFICATION_LINK)
+* 🎓 *Introduction to Cyber Security (CS101)* | Issued by TryHackMe | [Verify Credential](https://tryhackme.com/certificate/THM-HTGZZGPLXY)
 
 ### 🚀 Active Cybersecurity Projects
 * 🔹 **[SIEM Detection Lab](#):** Documenting deployment of a Splunk instance monitoring live Windows/Linux event logs.
